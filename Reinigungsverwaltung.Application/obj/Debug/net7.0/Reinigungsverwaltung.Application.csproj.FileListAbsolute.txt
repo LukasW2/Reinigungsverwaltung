@@ -1,0 +1,15 @@
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\bin\Debug\net7.0\Reinigungsverwaltung.Application.exe
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\bin\Debug\net7.0\Reinigungsverwaltung.Application.deps.json
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\bin\Debug\net7.0\Reinigungsverwaltung.Application.runtimeconfig.json
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\bin\Debug\net7.0\Reinigungsverwaltung.Application.dll
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\bin\Debug\net7.0\Reinigungsverwaltung.Application.pdb
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.csproj.AssemblyReference.cache
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.AssemblyInfoInputs.cache
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.AssemblyInfo.cs
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.csproj.CoreCompileInputs.cache
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.dll
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\refint\Reinigungsverwaltung.Application.dll
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.pdb
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\Reinigungsverwaltung.Application.genruntimeconfig.cache
+E:\POS_5CAIF\Reinigungsverwaltung\Reinigungsverwaltung.Application\obj\Debug\net7.0\ref\Reinigungsverwaltung.Application.dll

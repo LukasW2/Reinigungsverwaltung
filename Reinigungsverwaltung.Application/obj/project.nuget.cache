@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbwwoLdeYHK4bk1+yTEyp5UsXbrqEl4FqAZjidMZ/QT6+YrurlGEst5IVpTVLy8iBmAcxTBfdCFwzewTYXoU6Q==",
+  "dgSpecHash": "WyB4jJw37GDnU+5SRcNlAmvgjKm5GIhZ8RDV1Dam88vYne7CNkH2GVVbBWlVjAjtVygvr0Qd7YfY+xaSutEfFQ==",
   "success": true,
-  "projectFilePath": "E:\\POS_5CAIF\\Reinigungsverwaltung\\Reinigungsverwaltung.Application\\Reinigungsverwaltung.Application.csproj",
+  "projectFilePath": "/Users/paulherbich/RiderProjects/Reinigungsverwaltung/Reinigungsverwaltung.Application/Reinigungsverwaltung.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

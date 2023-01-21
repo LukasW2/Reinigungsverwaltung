@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {}
+    "/Users/paulherbich/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\POS_5CAIF\\Reinigungsverwaltung\\Reinigungsverwaltung.Application\\Reinigungsverwaltung.Application.csproj",
+      "projectUniqueName": "/Users/paulherbich/RiderProjects/Reinigungsverwaltung/Reinigungsverwaltung.Application/Reinigungsverwaltung.Application.csproj",
       "projectName": "Reinigungsverwaltung.Application",
-      "projectPath": "E:\\POS_5CAIF\\Reinigungsverwaltung\\Reinigungsverwaltung.Application\\Reinigungsverwaltung.Application.csproj",
-      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "E:\\POS_5CAIF\\Reinigungsverwaltung\\Reinigungsverwaltung.Application\\obj\\",
+      "projectPath": "/Users/paulherbich/RiderProjects/Reinigungsverwaltung/Reinigungsverwaltung.Application/Reinigungsverwaltung.Application.csproj",
+      "packagesPath": "/Users/paulherbich/.nuget/packages/",
+      "outputPath": "/Users/paulherbich/RiderProjects/Reinigungsverwaltung/Reinigungsverwaltung.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/paulherbich/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
